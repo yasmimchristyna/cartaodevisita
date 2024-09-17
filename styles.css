@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(248, 102, 224);
+    color: rgb(55, 0, 107);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20%;
+}
+nav{
+    background: linear-gradient(rgb(175, 79, 141), rgb(182, 57, 151));
+    text-align: center;
+    border-radius: 20%;
+
+}
+footer{background: linear-gradient(rgb(245, 99, 220),rgb(219, 57, 206));
+border-radius: 20%;
+text-align: center;
+
+}
+img{ 
+     border-radius: 45%;
+}
